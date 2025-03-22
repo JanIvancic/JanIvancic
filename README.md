@@ -4,7 +4,8 @@
   
 
 <br/>  
-
+<h1>Hello there! My name is Jan.</h1>
+<h2>I'm an informatics student at FOI, Varaždin.</h2>
 
 ## Technologies I have experience with
 <table><tr><td valign="top" width="33%">
